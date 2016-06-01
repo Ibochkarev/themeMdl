@@ -5,5 +5,8 @@
     </head>
 <body>
 
+    <!-- Navbar fixed -->
+    [[$mdl.navbar-fixed]]
+
 </body>
 </html>

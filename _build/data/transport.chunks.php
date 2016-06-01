@@ -7,6 +7,10 @@ $tmp = array(
 		'file' => 'head',
 		'description' => '',
 	),
+	'mdl.navbar-fixed' => array(
+		'file' => 'navbar-fixed',
+		'description' => '',
+	),
 );
 
 // Save chunks for setup options
